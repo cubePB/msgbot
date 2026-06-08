@@ -7,7 +7,7 @@ while True:
     }
 
     header = {
-        'authorization': 'NzA3NTQ1MDExMTY3ODIxODM2.GALws2.bwvgs8H-8tKREM3B5D15KsuBRkqyaLuDk6P6IU'
+        'authorization': authorizationDiscord
     }
 
     r = requests.post("https://discord.com/api/v9/channels/1512305081008128091/messages",
