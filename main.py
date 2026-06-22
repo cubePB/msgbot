@@ -11,7 +11,7 @@ while True:
     } 
 
     header = {
-        'authorization': "NzA3NTQ1MDExMTY3ODIxODM2.G3zyoD.2HWQzLm3pqAVuagR3o-LX5kY2fIxBjpYYxlVhE"
+        'authorization': "NzA3NTQ1MDExMTY3ODIxODM2.GmX9o3.QaOQVorX7eZYY0CWb-RQTXJ2Ymcv5wBdyOWZsw"
     }
     r = requests.post("https://discord.com/api/v9/channels/442709710408515605/messages",
 
